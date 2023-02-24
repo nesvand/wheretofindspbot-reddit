@@ -1,0 +1,22 @@
+{
+  "name": "wheretofindspbot-reddit",
+  "version": "0.1.0",
+  "description": "Reddit bot to respond to questions of where to find South Park episodes to watch",
+  "main": "index.js",
+  "repository": "https://github.com/nesvand/wheretowatchspbot-reddit",
+  "author": "Andrew Nesvadba <nesvand@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@total-typescript/ts-reset": "^0.3.7",
+    "@types/dotenv": "^8.2.0",
+    "dotenv": "^16.0.3",
+    "snoostorm": "^1.5.2",
+    "snoowrap": "^1.23.0"
+  },
+  "devDependencies": {
+    "@tsconfig/node18": "^1.0.1",
+    "@types/node": "^18.14.1",
+    "typescript": "^4.9.5"
+  }
+}
